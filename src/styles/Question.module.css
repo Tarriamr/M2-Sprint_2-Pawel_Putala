@@ -1,0 +1,21 @@
+.container {
+    display: grid;
+    grid-template-rows: repeat(5, max-content);
+    grid-template-columns: 1fr;
+    gap: 15px;
+    place-self: center;
+    place-items: center;
+    width: max-content;
+    height: max-content;
+}
+
+h3 {
+    color: #008de1;
+    text-align: center;
+    margin: 5px;
+}
+
+.buttonQuestion {
+    background-color: #002600;
+    width: 330px;
+}
