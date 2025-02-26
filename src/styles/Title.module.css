@@ -1,0 +1,11 @@
+.titleContainer {
+    width: max-content;
+    height: max-content;
+    display: grid;
+    place-self: center;
+    place-items: center;
+}
+
+.titleContainer > h1 {
+    text-align: center;
+}

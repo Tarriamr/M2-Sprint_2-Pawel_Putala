@@ -1,0 +1,6 @@
+.container {
+    display: grid;
+    width: max-content;
+    height: max-content;
+    padding: 50px;
+}
